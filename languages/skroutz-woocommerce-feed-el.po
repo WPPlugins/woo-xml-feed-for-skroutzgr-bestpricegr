@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2017-04-19 12:56+0300\n"
+"PO-Revision-Date: 2017-04-19 13:02+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: wooshop-skroutzxml.php\n"
+
+#: wooshop-skroutzxml.php:25
+msgid "Skroutz & BestPrice"
+msgstr ""
+
+#: wooshop-skroutzxml.php:30
+msgid "Create Feeds"
+msgstr "Δημιουργία Feeds"
+
+#: wooshop-skroutzxml.php:56
+msgid "When in Stock Availability"
+msgstr "Όταν τα προϊόντα είναι διαθέσιμα"
+
+#: wooshop-skroutzxml.php:61
+msgid "Άμεση παραλαβή / Παράδoση 1 έως 3 ημέρες"
+msgstr ""
+
+#: wooshop-skroutzxml.php:62
+msgid "Παράδοση σε 1 - 3 ημέρες"
+msgstr ""
+
+#: wooshop-skroutzxml.php:63
+msgid "Παράδοση σε 4 - 10 ημέρες"
+msgstr ""
+
+#: wooshop-skroutzxml.php:64
+msgid "Ιδιότητα: Διαθεσιμότητα"
+msgstr ""
+
+#: wooshop-skroutzxml.php:65
+msgid "Custom Availability"
+msgstr ""
+
+#: wooshop-skroutzxml.php:73
+msgid ""
+"Επιλέξτε το <strong>Ιδιότητα: Διαθεσιμότητα</strong> μόνο αν έχετε προσθέσει "
+"μια Ιδιότητα Προϊόντος με ονομασία \"Διαθεσιμότητα\" "
+msgstr ""
+
+#: wooshop-skroutzxml.php:80
+msgid "If a Product is out of Stock"
+msgstr "Έαν ένα Προϊόν είναι μη διαθέσιμο"
+
+#: wooshop-skroutzxml.php:84
+msgid "Include as out of Stock or Upon Request"
+msgstr "Συμπεριλάβετε το ώς μη Διαθέσιμο ή Κατόπιν Παραγγελίας"
+
+#: wooshop-skroutzxml.php:84
+msgid "Exclude from feed"
+msgstr "Παράλειψη από το Feed"
+
+#: wooshop-skroutzxml.php:95
+msgid "Features for bestprice"
+msgstr "Χαρακτηριστικά για BestPrice"
+
+#: wooshop-skroutzxml.php:121
+msgid "Skroutz Attributes"
+msgstr "Χαρακτηριστικά για Skroutz"
+
+#: wooshop-skroutzxml.php:129
+msgid "Size"
+msgstr "Μέγεθος"
+
+#: wooshop-skroutzxml.php:140
+msgid "Color"
+msgstr "Χρώμα"
+
+#: wooshop-skroutzxml.php:150
+msgid "Manufacturer"
+msgstr "Κατασκευαστής"
+
+#: wooshop-skroutzxml.php:167
+msgid "Create XML Feeds"
+msgstr "Δημιουργία XML Feeds"
+
+#: wooshop-skroutzxml.php:202
+msgid "Create Feeds for Skroutz.gr and bestprice.gr"
+msgstr "Δημιουργία Feed για Skroutz.gr και bestprice.gr"
